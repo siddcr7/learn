@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Learn/week%201/Day%203/mlruns/0/10f554c277e54f01a3475c7fe3fa273e/artifacts
+end_time: 1745742435438
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10f554c277e54f01a3475c7fe3fa273e
+run_name: indecisive-fox-335
+run_uuid: 10f554c277e54f01a3475c7fe3fa273e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745742427032
+status: 3
+tags: []
+user_id: Administrator
